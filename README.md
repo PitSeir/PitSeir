@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PitSeir
 - 👀 I’m interested in progamming apps.
-- 🌱 I’m currently learning Electric Engineering
+- 🌱 I’m currently learning Mechatronics Engineering
 - 💞️ I’m looking to collaborate on everything.
 - 📫 How to reach me piandertararo@gmail.com.
 
