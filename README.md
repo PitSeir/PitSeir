@@ -2,7 +2,7 @@
 - 👀 I’m interested in progamming apps.
 - 🌱 I’m currently learning Mechatronics Engineering
 - 💞️ I’m looking to collaborate on everything.
-- 📫 How to reach me piandertararo@gmail.com.
+- 📫 How to reach me piandertararo@gmail.com / tarazonapiter@gmail.com.
 
 <!---
 PitSeir/PitSeir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
